@@ -1,0 +1,21 @@
+import requests
+import os
+import time
+import threading
+from threading import Thread
+os.system("clear")
+print("")
+print ("""\033[92m
+  __ _
+| |/ / |   \
+| ' / |  | | |
+| . \ |  || |
+||__|/
+FB: โด้' คุง'งง
+                  """)
+print(".                 2022")
+print("")
+phone = input("เบอร์เป้าหมาย : ")
+num = int(input("จำนวน : "))
+print("")
+print("__waiting__")
